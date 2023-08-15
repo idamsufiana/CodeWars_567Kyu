@@ -1,2 +1,2 @@
-# CodeWars_5Kyu
-CodeWars 5 kyu
+# CodeWars_567Kyu
+CodeWars 567 kyu
